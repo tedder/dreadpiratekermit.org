@@ -1,0 +1,44 @@
+BODY { 
+	text-align: left; 
+	font-family: verdana,arial,helvetica,sans-serif; 
+	}
+  H2 { 
+  	border-bottom:1px solid #85DE62;
+  	border-top: 1px solid #85DE62;
+  	width:100%;
+  	font-variant: small-caps;
+  	text-align: center;
+  	}
+  	
+#shift { position: relative;
+	 left: 20px; 
+	 margin-right:20px;
+	 }
+ ul { list-style-type: circle; }
+  	
+  img {
+    background-color: white;
+    padding:8px;
+    border:solid;
+    border-color: #dddddd #aaaaaa #aaaaaa #dddddd;
+    border-width: 1px 2px 2px 1px;
+    margin: 8px;
+    margin-right:15px; }
+
+  	
+  #banner {
+  	position: relative;
+  	float:left;
+  	background-color:#85DE62; /*kermit green*/
+  	margin-bottom: 40px;
+  	}
+  	
+  .section {
+  	    padding: 10px;
+	    border-left:1px dashed #85DE62;
+	    border-right: 1px dashed #85DE62;
+    }
+    
+    .subblurb {
+    	clear: both;
+    	}

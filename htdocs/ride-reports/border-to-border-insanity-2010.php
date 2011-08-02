@@ -16,10 +16,8 @@ To: "LD Riders"
 <p>Two people from the LD Riders list agree to witness the start and end of the ride for me. I can't say enough about how helpful these guys were. Craig Chaddock in San Diego, and David Morrow from Vancouver, BC went above and beyond to make sure I had a successful ride. Although a lot of long distance riding is about the individual on the bike, it's the support people behind the scene that allow us to be successful.  Chris and David were an integral part of my success, as were Ted Timmons, Beth Heins and my wife Lisa. Thanks to them all!</p>
 <p>Thursday, March 25, 2010, 6:00 AM, Vancouver, WA.</p>
 <p>The alarm went off and I got up trying not to wake Lisa. That never works so I got her coffee. I was out the door on the road by 6:45, not too bad. The ride south was uneventful for the most part. It snowed over the Siskiyou mountains: no surprise. It was a small hard snow and didn't stress me out much. I stopped at the "Welcome to California" sign and snapped a picture with Oswald.</p>
-http://picasaweb.google.com/lh/photo/nM6lq4-kwgHlydYsY0ijTA?feat=directlink
-
-
-Thursday, March 25, 2010, 5:00 PM, Oakland, CA.
+<?php build_image2("b2b/sany0521.jpg", "Welcome to California!") ?>
+<div class="title">Thursday, March 25, 2010, 5:00 PM, Oakland, CA.</div>
 
 I had to ride around the block a couple of times to find a parking
 spot at "Lanesplitter" pizza on Telegraph. Beth showed up on her

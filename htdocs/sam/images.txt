@@ -9,7 +9,7 @@ PARAGRAPH	<pre>Samuel Morton SID 15189787<br />C/O Snake River Correctional Inst
 SECTION	Basic rules
 PARAGRAPH	<ul><li>Use Sam's full address including SID number, your return address on envelope<li>Limited to 10 items of things (think: pages) like photos, magazine clippings, etc.<li>Can't exceed 1/4 inch thick total<li>No blank paper, envelopes, money, sexually explicit material, etc.
 SECTION	The full rules
-PARAGRAPH	This is an overview- for a complete list of rules, restrictions, and details: <a href="http://arcweb.sos.state.or.us/rules/OARS_200/OAR_291/291_131.html">arcweb.sos.state.or.us/rules/OARS_200/OAR_291/291_131.html</a>
+PARAGRAPH	This is an overview- for a complete list of rules, restrictions, and details: <a href="http://arcweb.sos.state.or.us/pages/rules/oars_200/oar_291/291_131.html">arcweb.sos.state.or.us/pages/rules/oars_200/oar_291/291_131.html</a>
 SECTION	Incoming Mail
 PARAGRAPH	Addressing and labeling envelope: Your name and return address on the front of the envelope, Sam's full name and SID number, and postage. Don't attach or write anything else on the envelope.
 PARAGRAPH	Ink: Incoming mail must be in pen, lead or color pencil, non-toxic markers or be typewritten or photocopied.

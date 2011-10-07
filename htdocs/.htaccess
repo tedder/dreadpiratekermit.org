@@ -1,3 +1,0 @@
-php_value include_path ".:/home/www/vhosts/dreadpiratekermit.org/php_include/"
-php_value display_errors 1
-

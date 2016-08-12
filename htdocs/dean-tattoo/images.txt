@@ -1,4 +1,0 @@
-PAGETITLE	Dean's kermit tattoo
-PARAGRAPH	Dean received his tattoo on July 8, 2011 from <a href="http://www.infinitytattoo.com/sean_lanusse.html">Sean Lanusse at Infinity Tattoo</a>.
-img_20110709_061004.jpg	Picture from the day after
-FOOTER	
